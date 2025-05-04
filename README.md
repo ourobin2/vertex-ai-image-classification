@@ -14,7 +14,7 @@ This project demonstrates how to train an image classification model using Tenso
 
 ## 🗂️ Project Structure
 vertex-ai-image-classification/
-├── data/ # Data download & preparation
-├── model/ # Training and saving models
-├── vertex_ai/ # Vertex AI deployment and inference
-├── notebooks/ # Vertex AI Notebooks (optional)
+- data/ # Data download & preparation
+- model/ # Training and saving models
+- vertex_ai/ # Vertex AI deployment and inference
+- notebooks/ # Vertex AI Notebooks (optional)
